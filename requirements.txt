@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+ollama
+
+# Optional but recommended for RAG
+pypdf
+chromadb
+sentence-transformers
+
+bs4
